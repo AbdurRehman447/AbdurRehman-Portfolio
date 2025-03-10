@@ -164,3 +164,8 @@ export const personalData = {
 
 ---
 
+## Sponsor this project
+
+[![OpenCollective](https://img.shields.io/badge/OpenCollective-DeveloperPortfolio-blue.svg)](https://opencollective.com/developer-portfolio)  
+[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-AbdurRehman-yellow.svg)](https://buymeacoffee.com/abdurrehman)
+
