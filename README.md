@@ -1,9 +1,3 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/AbdurRehman447/Next-JS-Portfolio">
-</p>
-
----
-
 # [Built Portfolio With GitHub](https://github.com/AbdurRehman447/Next-JS-Portfolio)
 
 ---
