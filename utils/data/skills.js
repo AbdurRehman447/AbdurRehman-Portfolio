@@ -1,4 +1,5 @@
 export const skillsData = [
+  'Wordpress',
   'HTML',
   'CSS',
   'Javascript',
